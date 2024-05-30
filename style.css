@@ -1,0 +1,14 @@
+.container{
+    text-align: center;
+    margin-top: 30px;
+}
+#color-box{
+    display: block;
+    height: 100px;
+    width: 100px;
+    background-color:default;
+}
+#change-color-btn{
+margin-top: 20px;
+background-color: rgb(208, 180, 234);
+}
